@@ -1,5 +1,6 @@
 #include <iostream>
-
+/// файлы сборки в репозитории
+/// .gitignore
 /// не корректное название
 struct Mobilephone {
     double weight;
