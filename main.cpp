@@ -1,5 +1,6 @@
 #include <iostream>
 
+/// не корректное название
 struct Mobilephone {
     double weight;
     bool is_broken;
@@ -7,6 +8,7 @@ struct Mobilephone {
 };
 
 int main() {
+    /// не корректное название
     int kol_tel;
     std::cin >> kol_tel;
     auto *tel = new Mobilephone[kol_tel];
