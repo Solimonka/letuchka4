@@ -1,3 +1,0 @@
-/home/sonik/CLionProjects/let4/cmake-build-debug/CMakeFiles/let4.dir
-/home/sonik/CLionProjects/let4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sonik/CLionProjects/let4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
